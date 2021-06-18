@@ -1,0 +1,12 @@
+{
+  "name": "react-labCart",
+  "displayName": "react-labCart",
+  "expo": {
+    "name": "react-labCart",
+    "slug": "react-labCart",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
