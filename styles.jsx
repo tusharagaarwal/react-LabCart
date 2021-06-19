@@ -27,6 +27,10 @@ const styles = StyleSheet.create({
         fontWeight: 'bold',
         fontSize: 20
     },
+    secondaryText: {
+        fontSize: 17,
+        color: '#333333'
+    },
     boxCard: {
         padding: 0,
         alignItems: "center",
